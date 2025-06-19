@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Freelancing/MyCMakeProject/build",
+  "command": "C:\\MinGW\\bin\\c++.exe   -g -std=gnu++1z -o CMakeFiles\\MyCMakeproject.dir\\mycppcode.cpp.obj -c D:\\Freelancing\\MyCMakeProject\\mycppcode.cpp",
+  "file": "D:/Freelancing/MyCMakeProject/mycppcode.cpp",
+  "output": "CMakeFiles/MyCMakeproject.dir/mycppcode.cpp.obj"
+}
+]
